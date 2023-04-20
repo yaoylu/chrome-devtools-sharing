@@ -1,0 +1,21 @@
+html
+    head
+        title Chrome devtools Exercises
+        style
+            include main.css
+            include prism.css
+        if link
+            link(rel="stylesheet", href=link)
+    body
+        nav
+            ul
+                li
+                    a(href="/") Introduction to Chrome DevTools
+                li
+                    a(href="/exercises") Exercises
+        article#main
+            block content
+        script(src="/js/prism.js")
+        script(src="/js/main.js")
+        if script
+            script(src=script)

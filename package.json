@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fastify/static": "^6.9.0",
+    "@fastify/view": "^7.4.1",
+    "fastify": "^4.15.0",
+    "fastify-markdown": "^0.4.0",
+    "pug": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node server/server.js"
+  }
+}

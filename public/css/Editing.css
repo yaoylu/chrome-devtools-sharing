@@ -1,0 +1,143 @@
+blockquote {
+    background-color: red;
+}
+
+.quote {
+    background-color: orange;
+}
+
+#quote {
+    display: none;
+    background-color: yellow !important;
+}
+#hover {
+    width: 400px;
+    height: 100px;
+    background-color: rgb(205, 168, 241);
+    text-align: center;
+    line-height: 100px;
+}
+#hover:hover {
+    background-color: green;
+}
+#paragraph {
+    width: 400px;
+    height: 100px;
+    border: 5px solid rgb(205, 168, 241);
+    text-align: center;
+    line-height: 100px;
+}
+
+.card {
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    border: 5px solid;
+    margin: 20px;
+}
+
+
+#card-653215 {
+color: #A9DF9C;
+border-color: #A9DF9C;
+}
+
+#card-786539 {
+color: #F9E79F;
+border-color: #F9E79F;
+}
+
+#card-142930 {
+color: #E59866;
+border-color: #E59866;
+}
+
+#card-807802 {
+color: #F5B7B1;
+border-color: #F5B7B1;
+}
+
+#card-225609 {
+color: #AED6F1;
+border-color: #AED6F1;
+}
+
+#card-891438 {
+color: #C39BD3;
+border-color: #C39BD3;
+}
+
+#card-329417 {
+color: #FADBD8;
+border-color: #FADBD8;
+}
+
+#card-994355 {
+color: #D7DBDD;
+border-color: #D7DBDD;
+}
+
+#card-763150 {
+color: #76D7C4;
+border-color: #76D7C4;
+}
+
+#card-672062 {
+color: #F5CBA7;
+border-color: #F5CBA7;
+}
+
+#card-896490 {
+color: #ABB2B9;
+border-color: #ABB2B9;
+}
+
+#card-444402 {
+color: #FDEBD0;
+border-color: #FDEBD0;
+}
+
+#card-573063 {
+color: #E6B0AA;
+border-color: #E6B0AA;
+}
+
+#card-357990 {
+color: #A3E4D7;
+border-color: #A3E4D7;
+}
+
+#card-802867 {
+color: #D5D8DC;
+border-color: #D5D8DC;
+}
+
+#card-912224 {
+color: #E8DAEF;
+border-color: #E8DAEF;
+}
+
+#card-439310 {
+color: #EDBB99;
+border-color: #EDBB99;
+}
+
+#card-590764 {
+color: #EBDEF0;
+border-color: #EBDEF0;
+}
+
+#card-638970 {
+color: #D1F2EB;
+border-color: #D1F2EB;
+}
+
+#card-355849 {
+color: #FAD7A0;
+border-color: #FAD7A0;
+}
